@@ -1,0 +1,8 @@
+cat > .gitignore << 'EOF'
+.venv/
+__marimo__/
+__pycache__/
+.idea/
+.DS_Store
+data/
+EOF
