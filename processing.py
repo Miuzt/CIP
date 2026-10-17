@@ -62,7 +62,7 @@ def _(mo):
 
 
     # raw files are outside the project (too large), only needed for this import
-    RAW_PATH = Path("/Users/michaelengel/Documents/HSLU Master/Semester 2/DS in Healthcare/ds_healthcare_project/data/raw")
+    RAW_PATH = Path("url to the folder containing the data")
 
     # output goes into the project, relative to this notebook
     OUT_DIR = mo.notebook_dir() / "data"
