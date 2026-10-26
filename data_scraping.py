@@ -58,7 +58,7 @@ FIRST_YEAR, LAST_YEAR = 2003, 2026
 
 USER_AGENT = (
     "CIP-SL-Research/1.0 (university course project; "
-    "contact: replace-with-your-email@example.ch)"
+    "contact: hsiang-chi.wang＠stud.hslu.ch)"
 )
 PAUSE_RANGE = (4.0, 8.0)      # seconds between downloads
 CLICK_WAIT = 15               # seconds to wait for a link after a click
